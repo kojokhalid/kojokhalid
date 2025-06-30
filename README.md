@@ -5,7 +5,7 @@
 I'm a **highly motivated** student diving deep into the worlds of **cybersecurity** and **computer science** while building cool stuff for the web and mobile!  
 
 ### 🔧 Tech Stack & Skills  
-- **Frontend:** React, React Native, JavaScript (ES6+), HTML/CSS  
+- **Frontend:** React, React Native, JavaScript, HTML/CSS  
 - **Backend:** Node.js, Express, Mongo DB, Postgres  
 - **Security:** AppSec, Ethical Hacking, Secure Coding  
 - **Testing:** Unit, Integration, E2E Testing  
